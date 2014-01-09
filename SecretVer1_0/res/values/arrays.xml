@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <string-array name="universities">
+        <item>香港大學</item>
+        <item>香港中文大學 </item>
+        <item>香港科技大學 </item>
+        <item>香港理工大學</item>
+        <item>香港城市大學</item>
+        <item>香港浸會大學</item>
+        <item>嶺南大學</item>
+        <item>香港教育學院</item>
+        <item>香港公開大學</item>
+        <item>香港樹仁大學</item>
+        <item>珠海學院</item>
+        <item>恒生管理學院</item>
+        <item>香港演藝學院</item>
+        <item>香港專業教育學院</item>  
+    </string-array>  
+</resources>
